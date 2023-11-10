@@ -1,1 +1,1 @@
-The goal of this project is to preprocess data collected from loan applicants and predict, based on the information, who will be eligible to receive the loan.
+This project aims to make it easier for lenders to decide who gets a loan by cleaning up and analyzing applicant information. Here, I am using some machine learning models to predict who is likely to be eligible for a loan based on their details. The goal is to create a straightforward and fair system that helps both lenders and applicants in the loan approval process.
